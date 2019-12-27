@@ -1,0 +1,7 @@
+# SA Frontend ignored files
+node_modules/
+**/sa-frontend/build/
+
+# IDE ignored files
+.idea/
+*.iml
